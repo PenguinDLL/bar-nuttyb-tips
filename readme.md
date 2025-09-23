@@ -18,3 +18,7 @@ Serve the content
 cd mkdocs
 python -m mkdocs serve
 ```
+
+## Sources
+
+Tips are from `https://pastebin.com/17vpGEzv`.
