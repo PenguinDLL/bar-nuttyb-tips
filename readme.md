@@ -28,6 +28,23 @@ python -m mkdocs build
 mv site/ ..
 ```
 
+## How to deploy
+
+Merge modifications into `stable` branch.
+```bash
+git checkout stable
+git merge dev
+git checkout dev
+git rebase stable
+```
+
+Run deploy command in stable
+```bash
+git checkout stable
+cd mkdocs
+python -m mkdocs gh-deploy
+```
+
 ## Sources
 
 Tips are from `https://pastebin.com/17vpGEzv`.
