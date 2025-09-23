@@ -1,4 +1,4 @@
-# Welcome to Fast's guide to 100 raptor queens !
+# Welcome to Fast's Guide to 100 Raptor Queens !
 
 ## Some tips
 
