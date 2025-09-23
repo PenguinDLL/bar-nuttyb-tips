@@ -1,4 +1,6 @@
-# Welcome to Fast's guide to 100 raptor queens !
+# Welcome to Fast's Guide to 100 Raptor Queens !
+
+<img src="https://img.icons8.com/?size=100&id=16033&format=png&color=000000"/>
 
 ## Some tips
 
