@@ -1,5 +1,7 @@
 # Welcome to Fast's Guide to 100 Raptor Queens !
 
+<img src="https://img.icons8.com/?size=100&id=16033&format=png&color=000000"/>
+
 ## Some tips
 
 - For new players: spec a game or 2 to see how this is played. If you wanna see butts watch “Sunbutt” on BAR replays.
