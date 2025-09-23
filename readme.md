@@ -48,3 +48,7 @@ python -m mkdocs gh-deploy
 ## Sources
 
 Tips are from `https://pastebin.com/17vpGEzv`.
+
+Theme is from `https://github.com/squidfunk/mkdocs-material`.
+
+Dino image from `https://img.icons8.com/?size=100&id=16033&format=png&color=000000`.
