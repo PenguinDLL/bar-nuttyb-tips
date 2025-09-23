@@ -1,1 +1,6 @@
 site_name: NuttyB Tips
+theme:
+  name: material
+  palette: 
+    scheme: slate
+    primary: green
