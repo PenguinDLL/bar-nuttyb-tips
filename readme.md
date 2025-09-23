@@ -19,6 +19,15 @@ cd mkdocs
 python -m mkdocs serve
 ```
 
+## How to build
+
+Build the website content
+```bash
+cd mkdocs
+python -m mkdocs build
+mv site/ ..
+```
+
 ## Sources
 
 Tips are from `https://pastebin.com/17vpGEzv`.
