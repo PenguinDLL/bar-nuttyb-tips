@@ -2,6 +2,10 @@
 
 <img src="https://img.icons8.com/?size=100&id=16033&format=png&color=000000"/>
 
+## Goal
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WL4swUdSSCY?si=amuWHmpe54a8rJgV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Some tips
 
 - For new players: spec a game or 2 to see how this is played. If you wanna see butts watch “Sunbutt” on BAR replays.
