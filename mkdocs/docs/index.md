@@ -6,6 +6,8 @@
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WL4swUdSSCY?si=amuWHmpe54a8rJgV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+> Thank you Henks for recording this awesome game ; the very first victory against 100 raptor queens !
+
 ## Some tips
 
 - For the Author of this “Fast”, Corner is chilling as Raptors come one straight path, less defences and they get distracted by side players, also corner has more space for eco, Fast dislikes high eco corner players normally on “his” corner as they attract a lot raptors additional to his aggro.
