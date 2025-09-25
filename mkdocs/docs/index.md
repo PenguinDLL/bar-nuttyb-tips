@@ -13,7 +13,7 @@
 - For the Author of this “Fast”, Corner is chilling as Raptors come one straight path, less defences and they get distracted by side players, also corner has more space for eco, Fast dislikes high eco corner players normally on “his” corner as they attract a lot raptors additional to his aggro.
 - For new players: spec a game or 2 to see how this is played. If you wanna see butts watch “Sunbutt” on BAR replays.
 - Visit the Links page of [RCoreX](https://rcorex.github.io/nuttyb-config/) for Widgets and other infos.
-"Reclaim Selected" - OP one button Reclaim - "Holo Place" - auto skip to next when turret. “Layout Planner” by Noryon helps you to place stuff right.
+"Reclaim Selected" - OP one button Reclaim - "Holo Place" - auto skip to next when turret. “Layout Planner” by Noryon helps you to place stuff right. See [widgets](widgets) for more information on BAR widgets.
 - Use SPACE+X to see “Bomb Radius” of buildings.
 - Mod needs a highend PC, you and you’r teammates will have no fun if you have a potato. Sometimes GFX on lowest helps. “Lowest” also helps your eyes.
 - Try to reach 20-30K E with T1 converter only.
